@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003736937002",
+    "project_id": "unistay-afca2",
+    "storage_bucket": "unistay-afca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003736937002:android:8bdccadf47d159a8d00953",
+        "android_client_info": {
+          "package_name": "com.example.uni_stay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQ-VYW-hDnx3RsSA7Rgcry1Oq-UFSdVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
