@@ -1,8 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:hostelapplication/logic/modules/updatepassword_model.dart';
+import 'package:hostelapplication/logic/provider/updatepassword_provider.dart';
 
-import '../../../../logic/modules/updatepassword_model.dart';
-import '../../../../logic/provider/updatepassword_provider.dart';
+
 
 class UpdatePasswordScreen extends StatefulWidget {
   @override

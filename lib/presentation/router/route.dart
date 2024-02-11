@@ -25,7 +25,6 @@ import 'package:hostelapplication/presentation/screen/student/detailspage/studen
 import 'package:hostelapplication/presentation/screen/student/studentDashbord.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../screen/student/Drawer/updatePassword.dart';
 import '../screen/admin/complaint/AdmincomplaintScreen.dart';
 
 
