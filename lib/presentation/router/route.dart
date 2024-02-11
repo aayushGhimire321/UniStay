@@ -14,6 +14,7 @@ import 'package:hostelapplication/presentation/screen/splashScreen.dart';
 import 'package:hostelapplication/presentation/screen/student/Drawer/disciplinaryact.dart';
 import 'package:hostelapplication/presentation/screen/student/Drawer/helpscreen.dart';
 import 'package:hostelapplication/presentation/screen/student/Drawer/privacypolicy.dart';
+import 'package:hostelapplication/presentation/screen/student/Drawer/updatePassword.dart';
 import 'package:hostelapplication/presentation/screen/student/leave/studentAddLeave.dart';
 import 'package:hostelapplication/presentation/screen/student/services/bathroomService.dart';
 import 'package:hostelapplication/presentation/screen/student/services/messService.dart';
